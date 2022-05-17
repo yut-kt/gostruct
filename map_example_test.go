@@ -2,6 +2,7 @@ package gostruct_test
 
 import (
 	"fmt"
+
 	"github.com/yut-kt/gostruct"
 )
 

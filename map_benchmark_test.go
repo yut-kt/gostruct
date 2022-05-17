@@ -1,9 +1,10 @@
 package gostruct_test
 
 import (
-	"github.com/yut-kt/gostruct"
 	"strconv"
 	"testing"
+
+	"github.com/yut-kt/gostruct"
 )
 
 func generateKeys() (key1s, key2s []string) {
