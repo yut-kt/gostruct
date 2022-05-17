@@ -4,6 +4,7 @@
 - Map2Dim
   - 2 Dimension Map
     - [example](map_example_test.go)
+    - [Qiita Blog(Japanese)](https://qiita.com/yut-kt/items/7496493720d5e0b3153d)
 
 ## Install
 ```bash
